@@ -1,6 +1,6 @@
-# Swift에 진심인 사람들의 독서 모임
+# 🕊 Swift에 진심인 사람들의 독서 모임
 
-## Timetable
+## ⏰ Timetable
 
 수요일 총 스터디 시간 10:00 ~ 12:00
 
@@ -8,7 +8,7 @@
 
 최종 의견 종합 11:30 ~ 12:00
 
-## Rules
+## 📏 Rules
 
 책을 읽고 궁금하거나 의문이 가는 점을 issues에  올린다.
 
@@ -17,15 +17,3 @@
 팀별로 정리된 의견을 각 issue 댓글에 남긴다.
 
 정해진 시간 이후 모든 스터디원이 모여 issue에 대한 최종 의견을 나눈다.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
